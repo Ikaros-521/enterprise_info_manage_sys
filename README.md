@@ -6,6 +6,9 @@ C++企业信息管理系统
 1. 终端运行make
 2. 终端运行./a
 
+#### 相关资料
+  可以参考设计文档
+
 ### 相关图片
   
 ![make编译](https://images.gitee.com/uploads/images/2019/0828/185745_b044bcf8_5140590.png "屏幕截图.png")
