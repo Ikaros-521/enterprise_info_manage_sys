@@ -1,5 +1,5 @@
 # enterprise_info_manage_sys
-C++企业信息管理系统
+C++企业信息管理系统，已更新数据库版，请至enterprise_info_manage_sys_sql仓库查看
 
 #### 使用说明
 
