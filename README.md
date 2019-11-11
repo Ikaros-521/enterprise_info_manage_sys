@@ -1,5 +1,5 @@
 # enterprise_info_manage_sys
-C++企业信息管理系统，已更新数据库版，请至enterprise_info_manage_sys_sql仓库查看
+C++企业信息管理系统，已更新数据库版，请至[enterprise_info_manage_sys_sql](https://github.com/Ikaros-521/enterprise_info_manage_sys_sql)仓库查看
 
 我是在Linux Ubuntu12.04系统下编写，所以Windows下可能会遇到一些问题，将getch.h替换成conio.h
 
