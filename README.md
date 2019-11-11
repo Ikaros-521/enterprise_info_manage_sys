@@ -1,10 +1,12 @@
 # enterprise_info_manage_sys
 C++企业信息管理系统，已更新数据库版，请至enterprise_info_manage_sys_sql仓库查看
 
+我是在Linux系统下编写，所以Windows下可能会遇到一些问题，将getch.h替换成conio.h
+
 #### 使用说明
 
-1. 终端运行make
-2. 终端运行./a
+1. 终端运行 make 编译
+2. 终端运行 ./a
 
 #### 相关资料
   可以参考设计文档
