@@ -1,17 +1,28 @@
-# enterprise_info_manage_sys
-C++企业信息管理系统，已更新数据库版，请至[enterprise_info_manage_sys_sql](https://github.com/Ikaros-521/enterprise_info_manage_sys_sql)仓库查看
+#  企业信息管理系统
 
-我是在Linux Ubuntu12.04系统下编写，getch.h是通过<>导入的，需要换成""导入，所以Windows下可能会遇到一些问题，将getch.h替换成conio.h
+#### 介绍
+
+博客：[传送门](https://blog.csdn.net/Ikaros_521/article/details/100125110)
+
+C++企业信息管理系统，已更新数据库版，请至[enterprise_info_manage_sys_sql](https://gitee.com/ikaros-521/emis_sql)仓库查看
+
+我是在Linux Ubuntu12.04系统下编写
+
+Windows版是整个打包了，里面有相关说明，使用了 codeblocks
 
 我并没有完全按照设计文档写，会有出入请自行斟酌。数据的一些处理可能没有过多的检查，可自行修改。
 
+超级管理员 账号 admin  密码 admin
+
+管理员 账号 a1  密码 aaa
+
+更多请参考 data目录下的文件
+
+
 #### 使用说明
 
-1. 终端运行 make 编译
-2. 终端运行 ./a
-
-#### 相关资料
-  可以参考设计文档
+1. 终端运行make
+2. 终端运行./a
 
 ### 相关图片
   
