@@ -8,7 +8,7 @@ C++企业信息管理系统，已更新数据库版，请至[enterprise_info_man
 
 我是在Linux Ubuntu12.04系统下编写
 
-Windows版是整个打包了，里面有相关说明，使用了 codeblocks
+Windows版是整个打包了，里面有相关说明，使用了 codeblocks（[中文乱码解决参考](https://www.cnblogs.com/didiaodidiao/p/9189463.html)）
 
 我并没有完全按照设计文档写，会有出入请自行斟酌。数据的一些处理可能没有过多的检查，可自行修改。
 
